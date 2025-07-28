@@ -29,19 +29,19 @@ Implemented a machine learning pipeline to detect fraudulent transactions in a h
 
 ### 2. COVID-19 Trend Prediction
 
-**Domain:** Medical Science / Time-Series Analysis  
+**Domain:** Medical Science / Time‑Series Analysis  
 **Tools Used:** Python, Pandas, ARIMA, Prophet, Matplotlib  
-**Dataset:** [Johns Hopkins University COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19)
+**Dataset:** [COVID‑19 Time Series Data (Global) – Kaggle](https://www.kaggle.com/datasets/niketchauhan/covid-19-time-series-data)  
+This dataset provides daily global confirmed, recovered, and death counts since January 2020, originally sourced from Johns Hopkins University :contentReference[oaicite:1]{index=1}
 
 **Description:**  
-Analyzed global and country-wise COVID-19 case trends over time and used time-series forecasting models to predict future cases.
+Analyzed global and country‑wise COVID‑19 case trends over time and implemented time‑series forecasting models to predict future cases.
 
 **Highlights:**
-- Data cleaning and transformation from time-series CSV files
-- Forecasted daily cases using ARIMA and Prophet models
+- Data cleaning and transformation from daily CSV files
+- Forecasted daily counts using ARIMA and/or Prophet models
 - Visualized trend lines, growth rate, and prediction intervals
 
----
 
 
 
