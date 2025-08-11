@@ -11,7 +11,7 @@ This repository contains the projects completed during my internship at **GLOBAL
 
 ## 📁 Projects Included
 
-### 1. Credit Card Fraud Detection  
+### 1. Credit Card Fraud Detection (week 1)
 **Domain:** Finance / Cybersecurity  
 **Tools Used:** Python, Pandas, Scikit-learn, Matplotlib, PCA, SMOTE  
 **Dataset:** Kaggle – Credit Card Fraud Detection  
@@ -26,7 +26,7 @@ Implemented a machine learning pipeline to detect fraudulent transactions in a h
 
 ---
 
-### 2. COVID-19 Trend Prediction  
+### 2. COVID-19 Trend Prediction  (week 2)
 **Domain:** Medical Science / Time-Series Analysis  
 **Tools Used:** Python, Pandas, ARIMA, Prophet, Matplotlib  
 **Dataset:** COVID-19 Time Series Data (Global) – Kaggle  
@@ -41,7 +41,7 @@ Analyzed global and country-wise COVID-19 case trends over time and implemented 
 
 ---
 
-### 3. Customer Segmentation for a Retail Store  
+### 3. Customer Segmentation for a Retail Store  (week 3)
 **Domain:** Retail Analytics / Unsupervised Machine Learning  
 **Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, K-Means, PCA  
 **Dataset:** Mall Customers Dataset (Kaggle)  
