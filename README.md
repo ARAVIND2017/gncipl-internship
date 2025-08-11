@@ -42,6 +42,20 @@ Analyzed global and country‑wise COVID‑19 case trends over time and implemen
 - Forecasted daily counts using ARIMA and/or Prophet models
 - Visualized trend lines, growth rate, and prediction intervals
 
+### 3. Customer Segmentation for a Retail Store
+**Domain:** Retail Analytics / Unsupervised ML
+**Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, K-Means, PCA
+**Dataset:** Mall Customers Dataset (Kaggle)
+
+**Description:**
+Used K-Means clustering to segment retail customers based on demographics and spending behavior for targeted marketing.
+
+**Highlights:**
+-Cleaned and scaled customer data.
+-Determined optimal clusters using Elbow Method & Silhouette Score.
+-Applied K-Means, visualized with PCA (2D & 3D plots).
+-Derived actionable marketing insights from distinct customer groups.
+
 
 
 
