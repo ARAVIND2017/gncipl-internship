@@ -1,6 +1,4 @@
-# GNCIPL Internship Projects
-
-This repository contains the projects completed during my internship at **GLOBAL NEXT CONSULTING INDIA PRIVATE LIMITED (GNCIPL).**
+his repository contains the projects completed during my internship at **GLOBAL NEXT CONSULTING INDIA PRIVATE LIMITED (GNCIPL).**
 
 🏢 **Company:** GLOBAL NEXT CONSULTING INDIA PVT. LTD.  
 🧑‍💻 **Intern:** Aravind B  
@@ -54,5 +52,25 @@ Used K-Means clustering to segment retail customers based on demographics and sp
 - Determined optimal clusters using Elbow Method & Silhouette Score  
 - Applied K-Means, visualized with PCA (2D & 3D plots)  
 - Derived actionable marketing insights from distinct customer groups  
+
+---
+
+### 4. Air Quality Clustering & Analysis (week 4)  
+**Domain:** Environmental Data Science / Unsupervised Machine Learning  
+**Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, PCA, t-SNE, K-Means, Hierarchical Clustering  
+**Dataset:** Air Quality Data (Kaggle – Air Quality Dataset)  
+
+**Description:**  
+Implemented unsupervised learning techniques to cluster air quality data and identify pollution patterns across regions. Focused on dimensionality reduction (PCA & t-SNE), clustering (K-Means & Hierarchical), and cluster evaluation (Silhouette Score & Davies–Bouldin Index).  
+
+**Highlights:**  
+- Preprocessed and scaled pollution indicators (PM2.5, PM10, NO₂, CO, SO₂, O₃, etc.)  
+- Determined optimal clusters using **Elbow Method**  
+- Compared **K-Means vs Hierarchical Clustering** performance  
+- Visualized clusters using PCA, t-SNE, and interactive Plotly graphs  
+- Summarized clusters into interpretable groups:  
+  - **Cluster 0:** High PM zones (industrial/traffic)  
+  - **Cluster 1:** High NOx/NO₂ zones (traffic-dense areas)  
+  - **Cluster 2:** Cleaner zones (lower pollutant levels)  
 
 ---
